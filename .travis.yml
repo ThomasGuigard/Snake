@@ -1,0 +1,4 @@
+language: javafx
+
+jdk:
+  - oraclejdk8
