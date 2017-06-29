@@ -1,4 +1,4 @@
-package main.java.Entity;
+package Entity;
 
 /**
  * Created by Olivier on 29/06/2017.
